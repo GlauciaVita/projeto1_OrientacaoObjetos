@@ -6,3 +6,7 @@ Projeto simples com a criação de conta de banco com atributos de numero de con
 2 - Mostra o extrato do titular
 3 - Deposita valor na conta do titular
 4 - Saca valor da conta do titular
+
+# projeto1_OrientacaoObjetos
+
+Código melhorado com encapsulamento de atributos
