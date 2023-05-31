@@ -1,5 +1,5 @@
 # projeto1_OrientacaoObjetos
-Projeto simples com a criação de conta em banco:
+Projeto simples com a criação de conta em banco, vide arquivo #conta.py#:
 1 - Criação da classe: class Conta
 2 - Criação do contrutor: __init__ com os atributos da conta:
   2.1 - numero
@@ -8,11 +8,11 @@ Projeto simples com a criação de conta em banco:
   2.4 - limite
 
 #  projeto1_OrientacaoObjetos aprimoramento do codigo com encapsulamento de atributos
-Código melhorado com encapsulamento dos atributos
+Código melhorado com encapsulamento dos atributos, vide arquivo #conta_encapsulamento.py#
 OBS: Em python o encapsulamento é entendido com dois underscores colocados a frente do nome dos atributos, exemplo__atributo.
 
 #  projeto1_OrientacaoObjetos aprimoramento do codigo com criação de métodos(do objeto), métodos privados(do objeto), métodos estaticos(da classe)
-Código melhorado com criação dos seguintes métodos:
+Código melhorado com criação de mais tipos de metodos, vide arquivo #conta_encapsulamento_get_set.py#
 1 - Métodos: estrato, deposita, sacar, transferencia
 2 - Métodos privados: todos os métodos que contem underscore, exemplo: metodo__pode_sacar
 3 - Métodos estaticos:  todos os métodos com @statisticmethod, exemplo: cod_banco
